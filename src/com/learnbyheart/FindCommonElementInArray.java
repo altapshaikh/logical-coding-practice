@@ -23,7 +23,7 @@ public class FindCommonElementInArray {
 		List<Integer> collect2 = collect.stream().filter(asList1::contains).collect(Collectors.toList());
 
 		System.out.println(collect2);
-
+System.out.println("========================================================>");
 	}
 
 }
