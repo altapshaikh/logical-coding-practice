@@ -10,7 +10,7 @@ public class GitPractice {
 		
 		//logic for subraction
 		
-		int d=12;
+		int d=100;
 		int e=10;
 		int f=a+b;
 		System.out.println("subraction of number is:"+f);
