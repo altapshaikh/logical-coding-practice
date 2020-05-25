@@ -14,6 +14,8 @@ public class GitPractice {
 		int e=10;
 		int f=a+b;
 		System.out.println("subraction of number is:"+f);
+
+System.out.println("welcome");
 	}
 
 }
